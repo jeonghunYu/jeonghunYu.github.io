@@ -8,7 +8,7 @@ tag:
     - jekyll
     - blogging
 summary: Getting Started - Use & Change my blog
-thumbnail: /assets/img/posts/devlopr.png
+thumbnail: /assets/img/posts/hello.jpg
 ---
 
 Hi!
