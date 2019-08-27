@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make jekyll to blog
+title: Add new category "mogaco"
 author: Jeomxon
 date: '2019-08-27 12:34:23 +0530'
 category: mogaco
